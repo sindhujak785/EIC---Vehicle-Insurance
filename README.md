@@ -7,8 +7,8 @@ Inspired by a tutorial from the [Chandoo YouTube Channel](https://www.youtube.co
 ---
 
 ## 📁 Project Files
-- `EIC_Vehicle_Insurance_Dashboard.pbix`() – Power BI Report  
-- `eic_dashboard.png` – Screenshot of the report
+- [`EIC_Vehicle_Insurance_Dashboard.pbix`](https://github.com/sindhujak785/EIC---Vehicle-Insurance/blob/main/policies_1.pbix) – Power BI Report  
+- [`eic_dashboard.png`](https://github.com/sindhujak785/EIC---Vehicle-Insurance/blob/main/eic.pdf) – Screenshot of the report
 
 ---
 
